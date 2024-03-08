@@ -189,7 +189,7 @@ class Estudiante() {
     var nombre: String = ""
     var notas: List<Double> = listOf()
     var porcentajes: List<Int> = listOf()
-
+///
     fun calcularPromedio(): Double {
         var sumaNotas = 0.0
         for (n in notas) {
