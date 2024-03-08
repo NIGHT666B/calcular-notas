@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.brayan.jose.rodriguez.landazuri.calcularnotas"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.brayan.jose.rodriguez.landazuri.calcularnotas"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
